@@ -1,3 +1,3 @@
 def fizzbuzz(i)
-  if 
+  if i % 
 end
