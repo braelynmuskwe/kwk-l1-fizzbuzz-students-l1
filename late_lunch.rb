@@ -6,7 +6,7 @@ def fizzbuzz(i)
     elsif i % 5 == 0 && i % 3 == 0
     puts "fizzbuzz"
   else
-    puts "doesn't work"
+    puts nil
 end
 end
 
