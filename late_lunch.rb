@@ -10,4 +10,4 @@ def fizzbuzz(i)
 end
 end
 
-fizzbuzz(5)
+fizzbuzz(4)
